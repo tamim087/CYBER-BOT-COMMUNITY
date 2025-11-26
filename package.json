@@ -1,7 +1,7 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "Tamim Chat Bot",
   "version": "5.0.0",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by Tamim Hasan",
   "main": "Cyber.js",
   "engines": {
     "node": ">=20.18.1",
@@ -14,7 +14,7 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY.git"
+      "url": "https://www.facebook.com/tamim.hasan.20698"
   },
   "keywords": [
       "bot",
@@ -32,9 +32,9 @@
   "author": "Ullash ッ",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
+      "url": "https://www.facebook.com/tamim.hasan.20698"
   },
-  "homepage": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues",
+  "homepage": "https://www.facebook.com/tamim.hasan.20698",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
