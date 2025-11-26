@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Tamim Chat Bot",
-    "PREFIX": ".",
+    "PREFIX": "/",
     "ADMINBOT": [
         "61582617010325",
         "100056964345860",
